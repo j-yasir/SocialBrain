@@ -30,4 +30,5 @@ streamlit
 
 # FastAPI & API Server
 fastapi
+vercel-fastapi
 uvicorn
